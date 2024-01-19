@@ -28,7 +28,7 @@
 ![image](https://github.com/nile-ore/Jaytm/assets/75321127/2b2c51d0-5e75-497e-b1d6-6e404518980d)
 ![image](https://github.com/nile-ore/Jaytm/assets/75321127/5ccf7305-0cf3-4318-a307-c931de084a25)
 ![image](https://github.com/nile-ore/Jaytm/assets/75321127/81ffc885-0419-4780-a02f-de428706ccce)
-<h3> **Deposit/Withdrawl**</h3>
+**Deposit/Withdrawl**
 
 <br><br><br><br>
 
