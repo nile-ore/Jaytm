@@ -32,9 +32,10 @@
 
 <br><br><br><br>
 
-![image](https://github.com/nile-ore/Jaytm/assets/75321127/3f47be91-aef4-4121-b6f7-2dd2acbf1cbe)
+<img width="351" alt="image" src="https://github.com/nile-ore/Jaytm/assets/75321127/7a897120-1bfe-4544-8fb2-9507ea3d93ab">
 
-**Mini Statement **: Shows Past 10 recent transcations with current balance.
+
+**Mini Statement** : Shows Past 10 recent transcations with current balance.
 
 
 
